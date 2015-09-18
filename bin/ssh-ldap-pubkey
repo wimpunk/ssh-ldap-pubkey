@@ -51,7 +51,7 @@ quiet = False
 
 #######################  Constants  #######################
 
-DEFAULT_CONFIG_PATH = '/etc/ldap.conf'
+DEFAULT_CONFIG_PATH = '/etc/ldap/ldap.conf'
 DEFAULT_HOST = 'localhost'
 DEFAULT_PORT = 389
 DEFAULT_TIMEOUT = 10
